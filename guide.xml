@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record TV">
+    <display-name lang="pt">Record TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20261021022000 -0300" stop="20261021041500 -0300" channel="Megapix">
+    <title lang="pt">A Grande Muralha</title>
+  </programme>
+  <programme start="20261021041500 -0300" stop="20261021055500 -0300" channel="Megapix">
+    <title lang="pt">Casa Da Mãe Joana 2</title>
+  </programme>
+  <programme start="20261021055500 -0300" stop="20261021073500 -0300" channel="Megapix">
+    <title lang="pt">Madagascar 3: Os Procurados</title>
+  </programme>
+  <programme start="20261021073500 -0300" stop="20261021092000 -0300" channel="Megapix">
+    <title lang="pt">Pokémon O Filme: Volcanion E A Maravilha Mecânica</title>
+  </programme>
+  <programme start="20261021092000 -0300" stop="20261021113500 -0300" channel="Megapix">
+    <title lang="pt">Sr. &amp; Sra. Smith</title>
+  </programme>
+  <programme start="20261021113500 -0300" stop="20261021131500 -0300" channel="Megapix">
+    <title lang="pt">Minions 2: A Origem de Gru</title>
+  </programme>
+  <programme start="20261021131500 -0300" stop="20261021152500 -0300" channel="Megapix">
+    <title lang="pt">A Saga Crepúsculo: Amanhecer - Parte 2</title>
+  </programme>
+  <programme start="20261021152500 -0300" stop="20261021171500 -0300" channel="Megapix">
+    <title lang="pt">Cães de Guerra</title>
+  </programme>
+  <programme start="20261021171500 -0300" stop="20261021190000 -0300" channel="Megapix">
+    <title lang="pt">A Volta Do Todo Poderoso</title>
+  </programme>
+  <programme start="20261021190000 -0300" stop="20261021210000 -0300" channel="Megapix">
+    <title lang="pt">Bem-Vinda A Quixeramobim</title>
+  </programme>
+  <programme start="20261021210000 -0300" stop="20261021225500 -0300" channel="Megapix">
+    <title lang="pt">Farejando Vingança</title>
+  </programme>
+  <programme start="20261021225500 -0300" stop="20261022005500 -0300" channel="Megapix">
+    <title lang="pt">Rambo III</title>
+  </programme>
+  <programme start="20261021031800 -0300" stop="20261021060000 -0300" channel="HBO">
+    <title lang="pt">Harry Potter e a Câmara Secreta</title>
+  </programme>
+  <programme start="20261021060000 -0300" stop="20261021080000 -0300" channel="HBO">
+    <title lang="pt">Juntos Pelo Acaso</title>
+  </programme>
+  <programme start="20261021080000 -0300" stop="20261021100000 -0300" channel="HBO">
+    <title lang="pt">Amores Materialistas</title>
+  </programme>
+  <programme start="20261021100000 -0300" stop="20261021110000 -0300" channel="HBO">
+    <title lang="pt">HBO Movies</title>
+  </programme>
+  <programme start="20261021110000 -0300" stop="20261021130500 -0300" channel="HBO">
+    <title lang="pt">Missão de Sobrevivência</title>
+  </programme>
+  <programme start="20261021130500 -0300" stop="20261021150000 -0300" channel="HBO">
+    <title lang="pt">Venom</title>
+  </programme>
+  <programme start="20261021150000 -0300" stop="20261021171000 -0300" channel="HBO">
+    <title lang="pt">Jurassic World: Reino Ameaçado</title>
+  </programme>
+  <programme start="20261021171000 -0300" stop="20261021184500 -0300" channel="HBO">
+    <title lang="pt">Desespero Profundo</title>
+  </programme>
+  <programme start="20261021184500 -0300" stop="20261021202000 -0300" channel="HBO">
+    <title lang="pt">Herchcovitch; Exposto</title>
+  </programme>
+  <programme start="20261021202000 -0300" stop="20261021220000 -0300" channel="HBO">
+    <title lang="pt">Hypnotic - Ameaça Invisível</title>
+  </programme>
+  <programme start="20261021220000 -0300" stop="20261021235500 -0300" channel="HBO">
+    <title lang="pt">A Morte do Demônio: Em Chamas</title>
+  </programme>
+  <programme start="20261021235500 -0300" stop="20261022020500 -0300" channel="HBO">
+    <title lang="pt">Jurassic World: Reino Ameaçado</title>
+  </programme>
+  <programme start="20261021013700 -0300" stop="20261021041500 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Cálice de Fogo</title>
+  </programme>
+  <programme start="20261021041500 -0300" stop="20261021060000 -0300" channel="HBO Family">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20261021060000 -0300" stop="20261021072500 -0300" channel="HBO Family">
+    <title lang="pt">Os Jovens Titãs em Ação! nos Cinemas</title>
+  </programme>
+  <programme start="20261021072500 -0300" stop="20261021085200 -0300" channel="HBO Family">
+    <title lang="pt">Tá Dando Onda</title>
+  </programme>
+  <programme start="20261021085200 -0300" stop="20261021102100 -0300" channel="HBO Family">
+    <title lang="pt">Emoji: O Filme</title>
+  </programme>
+  <programme start="20261021102100 -0300" stop="20261021114300 -0300" channel="HBO Family">
+    <title lang="pt">As Meninas Superpoderosas - O Filme</title>
+  </programme>
+  <programme start="20261021114300 -0300" stop="20261021140200 -0300" channel="HBO Family">
+    <title lang="pt">O Espetacular Homem-Aranha</title>
+  </programme>
+  <programme start="20261021140200 -0300" stop="20261021154100 -0300" channel="HBO Family">
+    <title lang="pt">Pé Pequeno</title>
+  </programme>
+  <programme start="20261021154100 -0300" stop="20261021170900 -0300" channel="HBO Family">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+  </programme>
+  <programme start="20261021170900 -0300" stop="20261021180400 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261021180400 -0300" stop="20261021190300 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261021190300 -0300" stop="20261021200000 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+  </programme>
+  <programme start="20261021200000 -0300" stop="20261021212900 -0300" channel="HBO Family">
+    <title lang="pt">Emoji: O Filme</title>
+  </programme>
+  <programme start="20261021212900 -0300" stop="20261021232700 -0300" channel="HBO Family">
+    <title lang="pt">Titio Noel</title>
+  </programme>
+  <programme start="20261021232700 -0300" stop="20261022020300 -0300" channel="HBO Family">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+  </programme>
+  <programme start="20261021041100 -0300" stop="20261021042300 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20261021042300 -0300" stop="20261021043500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20261021043500 -0300" stop="20261021044700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20261021044700 -0300" stop="20261021050000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Greg</title>
+  </programme>
+  <programme start="20261021050000 -0300" stop="20261021051100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021051100 -0300" stop="20261021052200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021052200 -0300" stop="20261021053300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021053300 -0300" stop="20261021054500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021054500 -0300" stop="20261021055600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021055600 -0300" stop="20261021060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021060000 -0300" stop="20261021061200 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20261021061200 -0300" stop="20261021062300 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20261021062300 -0300" stop="20261021063600 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20261021063600 -0300" stop="20261021064700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20261021064700 -0300" stop="20261021065800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20261021065800 -0300" stop="20261021071000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021071000 -0300" stop="20261021072200 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021072200 -0300" stop="20261021073300 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021073300 -0300" stop="20261021074500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021074500 -0300" stop="20261021075600 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021075600 -0300" stop="20261021080700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021080700 -0300" stop="20261021081900 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Missões Secundárias</title>
+  </programme>
+  <programme start="20261021081900 -0300" stop="20261021083000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Missões Secundárias</title>
+  </programme>
+  <programme start="20261021083000 -0300" stop="20261021084100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021084100 -0300" stop="20261021085200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021085200 -0300" stop="20261021090200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021090200 -0300" stop="20261021091300 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021091300 -0300" stop="20261021092600 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021092600 -0300" stop="20261021093700 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021093700 -0300" stop="20261021094900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021094900 -0300" stop="20261021100100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021100100 -0300" stop="20261021101200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021101200 -0300" stop="20261021102300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021102300 -0300" stop="20261021103400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021103400 -0300" stop="20261021104500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021104500 -0300" stop="20261021105600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021105600 -0300" stop="20261021110600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021110600 -0300" stop="20261021113000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ilha dos Desafios</title>
+  </programme>
+  <programme start="20261021113000 -0300" stop="20261021114100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+  </programme>
+  <programme start="20261021114100 -0300" stop="20261021115300 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+  </programme>
+  <programme start="20261021115300 -0300" stop="20261021120400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+  </programme>
+  <programme start="20261021120400 -0300" stop="20261021121400 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021121400 -0300" stop="20261021122600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021122600 -0300" stop="20261021123800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021123800 -0300" stop="20261021124900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021124900 -0300" stop="20261021130000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021130000 -0300" stop="20261021131100 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021131100 -0300" stop="20261021132300 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021132300 -0300" stop="20261021133500 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021133500 -0300" stop="20261021134700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20261021134700 -0300" stop="20261021135800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+  </programme>
+  <programme start="20261021135800 -0300" stop="20261021140900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021140900 -0300" stop="20261021142100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021142100 -0300" stop="20261021143200 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021143200 -0300" stop="20261021144400 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20261021144400 -0300" stop="20261021145600 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+  </programme>
+  <programme start="20261021145600 -0300" stop="20261021150700 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021150700 -0300" stop="20261021151900 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021151900 -0300" stop="20261021153100 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021153100 -0300" stop="20261021154100 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021154100 -0300" stop="20261021155300 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021155300 -0300" stop="20261021160500 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021160500 -0300" stop="20261021160700 -0300" channel="Cartoon Network">
+    <title lang="pt">Looney Tunes: Simplificando os Esportes</title>
+  </programme>
+  <programme start="20261021160700 -0300" stop="20261021162000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Missões Secundárias</title>
+  </programme>
+  <programme start="20261021162000 -0300" stop="20261021163100 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Missões Secundárias</title>
+  </programme>
+  <programme start="20261021163100 -0300" stop="20261021164200 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021164200 -0300" stop="20261021165400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021165400 -0300" stop="20261021170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Krypto Salva o Dia</title>
+  </programme>
+  <programme start="20261021170000 -0300" stop="20261021171100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+  </programme>
+  <programme start="20261021171100 -0300" stop="20261021172400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+  </programme>
+  <programme start="20261021172400 -0300" stop="20261021173500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
+  </programme>
+  <programme start="20261021173500 -0300" stop="20261021174700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021174700 -0300" stop="20261021175900 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021175900 -0300" stop="20261021181000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021181000 -0300" stop="20261021182300 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021182300 -0300" stop="20261021183500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021183500 -0300" stop="20261021184700 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021184700 -0300" stop="20261021185800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021185800 -0300" stop="20261021190900 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021190900 -0300" stop="20261021192000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021192000 -0300" stop="20261021193200 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021193200 -0300" stop="20261021194300 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021194300 -0300" stop="20261021195600 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021195600 -0300" stop="20261021200700 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021200700 -0300" stop="20261021201900 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021201900 -0300" stop="20261021203100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
+  </programme>
+  <programme start="20261021203100 -0300" stop="20261021204200 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021204200 -0300" stop="20261021205400 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021205400 -0300" stop="20261021210600 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+  </programme>
+  <programme start="20261021210600 -0300" stop="20261021211800 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021211800 -0300" stop="20261021212900 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+  </programme>
+  <programme start="20261021212900 -0300" stop="20261021214200 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Missões Secundárias</title>
+  </programme>
+  <programme start="20261021214200 -0300" stop="20261021215300 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura: Missões Secundárias</title>
+  </programme>
+  <programme start="20261021215300 -0300" stop="20261021220400 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021220400 -0300" stop="20261021221700 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021221700 -0300" stop="20261021222800 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
+  </programme>
+  <programme start="20261021222800 -0300" stop="20261021223900 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas Um Show</title>
+  </programme>
+  <programme start="20261021223900 -0300" stop="20261021225100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas Um Show</title>
+  </programme>
+  <programme start="20261021225100 -0300" stop="20261021230300 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas Um Show</title>
+  </programme>
+  <programme start="20261021230300 -0300" stop="20261021231400 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20261021231400 -0300" stop="20261021232700 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20261021232700 -0300" stop="20261021233800 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+  </programme>
+  <programme start="20261021233800 -0300" stop="20261021235000 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021235000 -0300" stop="20261022000100 -0300" channel="Cartoon Network">
+    <title lang="pt">Clarêncio, o Otimista</title>
+  </programme>
+  <programme start="20261021033000 -0300" stop="20261021050000 -0300" channel="Record TV">
+    <title lang="pt">IURD</title>
+  </programme>
+  <programme start="20261021050000 -0300" stop="20261021070000 -0300" channel="Record TV">
+    <title lang="pt">Balanço Geral Manhã</title>
+  </programme>
+  <programme start="20261021070000 -0300" stop="20261021070500 -0300" channel="Record TV">
+    <title lang="pt">Jornal da Record 24h</title>
+  </programme>
+  <programme start="20261021070500 -0300" stop="20261021073000 -0300" channel="Record TV">
+    <title lang="pt">Balanço Geral Manhã</title>
+  </programme>
+  <programme start="20261021073000 -0300" stop="20261021084000 -0300" channel="Record TV">
+    <title lang="pt">Balanço Geral Manhã - SP</title>
+  </programme>
+  <programme start="20261021084000 -0300" stop="20261021095000 -0300" channel="Record TV">
+    <title lang="pt">Fala Brasil</title>
+  </programme>
+  <programme start="20261021095000 -0300" stop="20261021113000 -0300" channel="Record TV">
+    <title lang="pt">Hoje em Dia</title>
+  </programme>
+  <programme start="20261021113000 -0300" stop="20261021130000 -0300" channel="Record TV">
+    <title lang="pt">Balanço Geral - SP</title>
+  </programme>
+  <programme start="20261021130000 -0300" stop="20261021131000 -0300" channel="Record TV">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261021131000 -0300" stop="20261021153000 -0300" channel="Record TV">
+    <title lang="pt">Balanço Geral - SP</title>
+  </programme>
+  <programme start="20261021153000 -0300" stop="20261021163000 -0300" channel="Record TV">
+    <title lang="pt">Jesus</title>
+  </programme>
+  <programme start="20261021163000 -0300" stop="20261021174000 -0300" channel="Record TV">
+    <title lang="pt">Cidade Alerta</title>
+  </programme>
+  <programme start="20261021174000 -0300" stop="20261021174500 -0300" channel="Record TV">
+    <title lang="pt">Jornal da Record 24h</title>
+  </programme>
+  <programme start="20261021174500 -0300" stop="20261021180000 -0300" channel="Record TV">
+    <title lang="pt">Cidade Alerta</title>
+  </programme>
+  <programme start="20261021180000 -0300" stop="20261021185000 -0300" channel="Record TV">
+    <title lang="pt">Cidade Alerta</title>
+  </programme>
+  <programme start="20261021185000 -0300" stop="20261021195000 -0300" channel="Record TV">
+    <title lang="pt">Cidade Alerta</title>
+  </programme>
+  <programme start="20261021195000 -0300" stop="20261021203000 -0300" channel="Record TV">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20261021203000 -0300" stop="20261021204000 -0300" channel="Record TV">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261021204000 -0300" stop="20261021210000 -0300" channel="Record TV">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20261021210000 -0300" stop="20261021220000 -0300" channel="Record TV">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20261021220000 -0300" stop="20261021223000 -0300" channel="Record TV">
+    <title lang="pt">Reis - A Emboscada</title>
+  </programme>
+  <programme start="20261021223000 -0300" stop="20261022001500 -0300" channel="Record TV">
+    <title lang="pt">A Fazenda</title>
+  </programme>
+</tv>
